@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ketches:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-13T04:48:04.445532959Z"
+    description: A Helm chart for Kubernetes
+    digest: 0bdb5f9cb11db64408c041d96da82332c8207d86727a837aa38bdb4687d9a889
+    name: ketches
+    type: application
+    urls:
+    - https://github.com/ketches/helm-charts/releases/download/ketches-0.1.0/ketches-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-07-13T04:48:04.445540459Z"
