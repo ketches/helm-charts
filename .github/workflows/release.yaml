@@ -35,4 +35,3 @@ jobs:
           charts_repo_url: https://pescox.github.io/helm-charts
         env:
           CR_TOKEN: "${{ secrets.GH_TOKEN }}"
-          CR_SKIP_EXISTING: "false"
