@@ -2,7 +2,11 @@
 
 本仓库用于存放 Ketches 的 Helm Charts。
 
-使用 `helm repo add ketches https://ketches.github.io/helm-charts` 添加本仓库到 Helm 仓库列表。
+使用以下命令添加仓库：
+
+```bash
+helm repo add ketches https://ketches.github.io/helm-charts
+```
 
 ## Charts 列表
 
